@@ -1,0 +1,54 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+#container{
+  margin:auto;
+  width: 1000px;
+}
+#navbar{
+  left: 300px;
+  display:block;
+  position:relative;
+  vertical-align: top;
+  margin-bottom: 25px;
+  border: 1px solid #000;
+  width: 500px;
+}
+td{
+  width:125px;
+  text-align: left;
+}
+#addUser{
+  left:300px;
+  display:block;
+  position: relative;
+  vertical-align: top;
+}
+form{
+  display:inline-block;
+  position:relative;
+  left:100px;
+}
+input{
+  display:inline-block;
+  position:relative;
+}
+button{
+  display:inline-block;
+  position:relative;
+  left:0px;
+  margin-top: 25px;
+}
+p{
+  font-size: 14px;
+  line-height: 24px;
+  text-align: right;
+  margin-right: 5px;
+}
+header{
+  border-bottom: 1px solid #000;
+  font-size: 40px;
+  width: 320px;
+  margin-bottom: 10px;
+}
